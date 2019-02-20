@@ -32,7 +32,7 @@ N/A
 
 ## Deployment
 
-Install the component foo_mlsync.fb2k-component
+Install the component [foo_mlsync.fb2k-component] (https://github.com/ajitnilakantan/foo_mlsync/releases/download/v0.9.0/foo_mlsync.fb2k-component)
 
 Right click context menu will display item "Show in Media Library Viewer"
 
